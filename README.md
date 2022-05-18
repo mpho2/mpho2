@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mpho2
 - 👀 I’m interested in coding and data analysis
 - 🌱 I’m currently learning data sciences with python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tsotetsimpho17@gmail.com
 
 <!---
